@@ -1,3 +1,5 @@
 # Our First File
 
-This is ne File!
+This is new File!
+
+By Zar Zakharov
